@@ -3,37 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/usuario/listar.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/catalogo/ActualizarCatalogo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/paginas/PanelAdministracion.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/catalogo/EliminarCatalogo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/usuario/ListarUsuario.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/index.html</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/articulo/EditarArticulo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/usuario/editar.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/articulo/EliminarArticulo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/layout/header.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/articulo/mostrar.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/articulo/ListarArticulo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/articulo/ActualizarArticulo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/articulo/editar.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/articulo/CrearArticulo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/vo/ArticuloVO.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/catalogo/ListarCatalogo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/catalogo/listar.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/catalogo/EditarCatalogo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/dao/ArticuloDAO.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/articulo/listar.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/manager/ArticuloManager.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/catalogo/editar.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/catalogo/CrearCatalogo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/articulo/MostrarArticulo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/usuario/mostrar.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/servlets/catalogo/MostrarCatalogo.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/manager/CatalogoManager.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/paginas/panelAdministracion.jsp</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/src/java/com/tecstore/dao/CatalogoDAO.java</file>
-            <file>file:/Users/gabrielgrijalvaflores/Desktop/tecstore/web/catalogo/mostrar.jsp</file>
+            <file>file:/C:/Users/Victor%20Espinoza/Documents/GitHub/TecStore/tecstore/web/css/newcss.css</file>
+            <file>file:/C:/Users/Victor%20Espinoza/Documents/GitHub/TecStore/tecstore/web/paginas/panelAdministracion.jsp</file>
         </group>
     </open-files>
 </project-private>

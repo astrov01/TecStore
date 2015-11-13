@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3c0d99b-47fe-4410-9e10-fde092482209" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Stylesheet.css" afterPath="$PROJECT_DIR$/css/Stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/tecstore/build/web/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/META-INF/context.xml" afterPath="$PROJECT_DIR$/tecstore/build/web/META-INF/context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/articulo/editar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/articulo/editar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/catalogo/editar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/catalogo/editar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/usuario/editar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/usuario/editar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/layout/header.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/layout/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/index.html" afterPath="$PROJECT_DIR$/tecstore/build/web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/articulo/listar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/articulo/listar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/catalogo/listar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/catalogo/listar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/usuario/listar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/usuario/listar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/articulo/mostrar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/articulo/mostrar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/catalogo/mostrar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/catalogo/mostrar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/usuario/mostrar.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/usuario/mostrar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/css/newcss.css" afterPath="$PROJECT_DIR$/tecstore/build/web/css/newcss.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/web/css/newcss.css" afterPath="$PROJECT_DIR$/tecstore/web/css/newcss.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/paginas/panelAdministracion.jsp" afterPath="$PROJECT_DIR$/tecstore/build/web/paginas/panelAdministracion.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/web/paginas/panelAdministracion.jsp" afterPath="$PROJECT_DIR$/tecstore/web/paginas/panelAdministracion.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/build/web/WEB-INF/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/tecstore/build/web/WEB-INF/classes/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecstore/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/tecstore/nbproject/private/private.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TecStore.iws" />
@@ -27,8 +46,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09265944">
-              <caret line="23" column="82" selection-start-line="23" selection-start-column="82" selection-end-line="23" selection-end-column="82" />
+            <state vertical-scroll-proportion="1.8953068">
+              <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -44,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/css/Stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -66,8 +85,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/Stylesheet.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -107,6 +126,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -127,8 +148,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,9 +213,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10079156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -248,6 +267,28 @@
     <entry file="file://$PROJECT_DIR$/css/Stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
@@ -263,15 +304,15 @@
     <entry file="file://$PROJECT_DIR$/css/Stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09265944">
-          <caret line="23" column="82" selection-start-line="23" selection-start-column="82" selection-end-line="23" selection-end-column="82" />
+        <state vertical-scroll-proportion="1.8953068">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />

@@ -10,6 +10,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Panel de administracion</title>
+        
+        <link href="/tecstore/web/css/newcss.css" rel="stylesheet">
     </head>
     <body>
        
